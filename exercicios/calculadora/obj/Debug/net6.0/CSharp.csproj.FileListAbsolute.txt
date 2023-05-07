@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\bin\Debug\net6.0\CSharp.exe
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\bin\Debug\net6.0\CSharp.deps.json
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\bin\Debug\net6.0\CSharp.runtimeconfig.json
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\bin\Debug\net6.0\CSharp.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\bin\Debug\net6.0\CSharp.pdb
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\obj\Debug\net6.0\CSharp.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\obj\Debug\net6.0\refint\CSharp.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\obj\Debug\net6.0\CSharp.pdb
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\calculadora\obj\Debug\net6.0\ref\CSharp.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\OneDrive\\Computador\\ESTUDO\\Programação\\Git_GitHub\\Estudo\\CSharp\\CSharp.csproj": {}
+    "C:\\Users\\danie\\OneDrive\\Computador\\ESTUDO\\Programação\\Git_GitHub\\Estudo\\CSharp\\exercicios\\calculadora\\CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\OneDrive\\Computador\\ESTUDO\\Programação\\Git_GitHub\\Estudo\\CSharp\\CSharp.csproj": {
+    "C:\\Users\\danie\\OneDrive\\Computador\\ESTUDO\\Programação\\Git_GitHub\\Estudo\\CSharp\\exercicios\\calculadora\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Computador\\ESTUDO\\Programação\\Git_GitHub\\Estudo\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Computador\\ESTUDO\\Programação\\Git_GitHub\\Estudo\\CSharp\\exercicios\\calculadora\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "C:\\Users\\danie\\OneDrive\\Computador\\ESTUDO\\Programação\\Git_GitHub\\Estudo\\CSharp\\CSharp.csproj",
+        "projectPath": "C:\\Users\\danie\\OneDrive\\Computador\\ESTUDO\\Programação\\Git_GitHub\\Estudo\\CSharp\\exercicios\\calculadora\\CSharp.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\OneDrive\\Computador\\ESTUDO\\Programação\\Git_GitHub\\Estudo\\CSharp\\obj\\",
+        "outputPath": "C:\\Users\\danie\\OneDrive\\Computador\\ESTUDO\\Programação\\Git_GitHub\\Estudo\\CSharp\\exercicios\\calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
