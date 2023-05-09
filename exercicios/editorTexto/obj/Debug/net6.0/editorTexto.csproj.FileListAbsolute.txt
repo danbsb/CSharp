@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\bin\Debug\net6.0\editorTexto.exe
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\bin\Debug\net6.0\editorTexto.deps.json
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\bin\Debug\net6.0\editorTexto.runtimeconfig.json
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\bin\Debug\net6.0\editorTexto.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\bin\Debug\net6.0\editorTexto.pdb
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\obj\Debug\net6.0\editorTexto.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\obj\Debug\net6.0\editorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\obj\Debug\net6.0\editorTexto.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\obj\Debug\net6.0\editorTexto.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\obj\Debug\net6.0\editorTexto.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\obj\Debug\net6.0\editorTexto.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\obj\Debug\net6.0\refint\editorTexto.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\obj\Debug\net6.0\editorTexto.pdb
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\obj\Debug\net6.0\editorTexto.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\editorTexto\obj\Debug\net6.0\ref\editorTexto.dll
