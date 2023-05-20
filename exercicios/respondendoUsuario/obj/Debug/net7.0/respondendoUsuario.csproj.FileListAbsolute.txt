@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\obj\Debug\net7.0\respondendoUsuario.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\obj\Debug\net7.0\respondendoUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\obj\Debug\net7.0\respondendoUsuario.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\obj\Debug\net7.0\respondendoUsuario.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\obj\Debug\net7.0\respondendoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\bin\Debug\net7.0\respondendoUsuario.exe
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\bin\Debug\net7.0\respondendoUsuario.deps.json
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\bin\Debug\net7.0\respondendoUsuario.runtimeconfig.json
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\bin\Debug\net7.0\respondendoUsuario.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\bin\Debug\net7.0\respondendoUsuario.pdb
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\obj\Debug\net7.0\respondendoUsuario.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\obj\Debug\net7.0\refint\respondendoUsuario.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\obj\Debug\net7.0\respondendoUsuario.pdb
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\obj\Debug\net7.0\respondendoUsuario.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\respondendoUsuario\obj\Debug\net7.0\ref\respondendoUsuario.dll

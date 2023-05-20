@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\bin\Debug\net6.0\mediaAluno.exe
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\bin\Debug\net6.0\mediaAluno.deps.json
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\bin\Debug\net6.0\mediaAluno.runtimeconfig.json
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\bin\Debug\net6.0\mediaAluno.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\bin\Debug\net6.0\mediaAluno.pdb
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\obj\Debug\net6.0\mediaAluno.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\obj\Debug\net6.0\mediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\obj\Debug\net6.0\mediaAluno.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\obj\Debug\net6.0\mediaAluno.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\obj\Debug\net6.0\mediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\obj\Debug\net6.0\mediaAluno.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\obj\Debug\net6.0\refint\mediaAluno.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\obj\Debug\net6.0\mediaAluno.pdb
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\obj\Debug\net6.0\mediaAluno.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\mediaAluno\obj\Debug\net6.0\ref\mediaAluno.dll

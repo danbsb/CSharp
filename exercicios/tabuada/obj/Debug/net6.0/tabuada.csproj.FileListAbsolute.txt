@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\bin\Debug\net6.0\tabuada.exe
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\bin\Debug\net6.0\tabuada.deps.json
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\bin\Debug\net6.0\tabuada.runtimeconfig.json
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\bin\Debug\net6.0\tabuada.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\bin\Debug\net6.0\tabuada.pdb
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\obj\Debug\net6.0\tabuada.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\obj\Debug\net6.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\obj\Debug\net6.0\tabuada.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\obj\Debug\net6.0\tabuada.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\obj\Debug\net6.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\obj\Debug\net6.0\tabuada.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\obj\Debug\net6.0\refint\tabuada.dll
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\obj\Debug\net6.0\tabuada.pdb
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\obj\Debug\net6.0\tabuada.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Computador\ESTUDO\Programação\Git_GitHub\Estudo\CSharp\exercicios\tabuada\obj\Debug\net6.0\ref\tabuada.dll
