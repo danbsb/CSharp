@@ -20,7 +20,8 @@ namespace basicCrud
             Console.WriteLine("[ 0 ] - Inserir pessoa?");
             Console.WriteLine("[ 1 ] - Ver todos os cadastros?");
             Console.WriteLine("[ 2 ] - Atualizar cadastro?");
-            Console.WriteLine("[ 3 ] - Deletar pessoa?");
+            Console.WriteLine("[ 3 ] - Deletar pessoa?");            
+            Console.WriteLine("[ 4 ] - Procurar pessoa?");
             Console.WriteLine("");
             Console.WriteLine("Insira o valor e ENTER: ");
             var valor = Console.ReadLine();
@@ -30,10 +31,11 @@ namespace basicCrud
 
             switch (valor)
             {
-                case "0": Console.WriteLine("0"); break;
+                case "0": crud.Create(); break;
                 case "1": crud.Read(); break;
-                case "2": Console.WriteLine("1"); break;
-                case "3": Console.WriteLine("1"); break;
+                case "2": crud.Update(); break;
+                case "3": crud.Delete(); break;
+                case "4": crud.ReadOne(); break;
                 default:
                     Console.WriteLine("");
                     Console.WriteLine("Opção invalida! Tente novamente...");
