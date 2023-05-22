@@ -1,6 +1,13 @@
 ﻿using basicCRUD.model;
 using System;
 
+/*
+Criado por: Daniel Fontinele da Silva
+Data: 22/05/2023
+GitHUB: github.com/danbsb
+E-mail: daniel.fontinele@gmail.com
+ */
+
 namespace basicCrud
 {
     class Program
@@ -22,6 +29,7 @@ namespace basicCrud
             Console.WriteLine("[ 2 ] - Atualizar cadastro?");
             Console.WriteLine("[ 3 ] - Deletar pessoa?");            
             Console.WriteLine("[ 4 ] - Procurar pessoa?");
+            Console.WriteLine("[ 5 ] - Sair");
             Console.WriteLine("");
             Console.WriteLine("Insira o valor e ENTER: ");
             var valor = Console.ReadLine();
@@ -36,6 +44,7 @@ namespace basicCrud
                 case "2": crud.Update(); break;
                 case "3": crud.Delete(); break;
                 case "4": crud.ReadOne(); break;
+                case "5": break;
                 default:
                     Console.WriteLine("");
                     Console.WriteLine("Opção invalida! Tente novamente...");
