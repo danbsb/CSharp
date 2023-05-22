@@ -9,7 +9,7 @@ Criado por: Daniel Fontinele da Silva
 Data: 22/05/2023
 GitHUB: github.com/danbsb
 E-mail: daniel.fontinele@gmail.com
- */
+*/
 
 namespace basicCRUD.model
 {

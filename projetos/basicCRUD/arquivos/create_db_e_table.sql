@@ -1,3 +1,8 @@
+--Criado por: Daniel Fontinele da Silva
+--Data: 22/05/2023
+--GitHUB: github.com/danbsb
+--E-mail: daniel.fontinele@gmail.com
+
 --criação do container no Docker: docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=devD@niel123" --env MSSQL_AGENT_ENABLED=True --name SQL2022_Staging -p 1401:1433 -d mcr.microsoft.com/mssql/server:2022-latest 
 
 --cria banco de dados
