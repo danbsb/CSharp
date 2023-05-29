@@ -1,0 +1,16 @@
+cadastrar um usuario
+cadastrar um perfil
+vincular um usuario a um perfil
+
+cadastrar uma categoria
+cadastrar uma tag
+cadastrar um post
+
+vincular um post a uma tag
+
+listar os usuários (nome, email, e perfis separados por virgula)
+listar categorias com quantidade de posts
+listar tags com quantidade de posts
+listar os posts de uma categoria
+listar todos os posts com sua categoria
+listar os posts com suas tags separadas por virgulas
